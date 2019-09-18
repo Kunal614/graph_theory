@@ -1,6 +1,5 @@
 //Topological sort of vertex 1 to ... n
 
-
 #include<bits/stdc++.h>
 using namespace std;
 #define pb push_back
