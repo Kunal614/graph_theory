@@ -3,3 +3,4 @@ This contanis all the basic stuff , how to make graph by adjcency list as well a
 It conatins application of Dfs as well.
 Dijkstra’s  implementation
 Tree traversal interative way all in one algo
+checking connected components
