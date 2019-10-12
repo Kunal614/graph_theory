@@ -2,6 +2,7 @@
 using namespace std;
 vector<int> v[1000];
 bool arr[1000];
+
 int dfs(int n)
 {
     arr[n]=true;
