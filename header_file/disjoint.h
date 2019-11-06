@@ -21,8 +21,7 @@ class union_set{
           for(int i=0;i<n;i++)
           {
              p[i]=i;
-             //p.push_back(i);
-            // cout<<p[i]<<" ";
+           
           }
 
       }
@@ -38,13 +37,12 @@ class union_set{
       }
       int find_set(int k)
       {
-         // cout<<endl<<p[k]<<endl;
-          //cout<<k<<" "<<p[k]<<endl;
+        
           if(k==p[k])
               return k;
            else
            {
-             p[k]= find_set(p[k]);
+            find_set(p[k]);
            }
               
       }
