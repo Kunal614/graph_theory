@@ -42,7 +42,7 @@ class union_set{
               return k;
            else
            {
-            find_set(p[k]);
+            return p[k]=find_set(p[k]);
            }
               
       }
