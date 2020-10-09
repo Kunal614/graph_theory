@@ -5,6 +5,7 @@ Dijkstra’s  implementation
 Tree traversal interative way all in one algo
 checking connected components
 Binary search tree
+Graph Coloring
 
 # Contibution
 Try Different algorithms which are not available in repo.
