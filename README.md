@@ -11,4 +11,4 @@ Graph Coloring
 Try Different algorithms which are not available in repo.
 Only use header file or c++ for contribution.
 
-# Eligible For Hactoberfest
+
