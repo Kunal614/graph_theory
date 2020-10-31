@@ -15,7 +15,7 @@ typedef unsigned long int ul;
 typedef std::vector<ll> vi;
 typedef std::pair<ll, ll> pairi;
 
-int ans = 0;
+ll ans = 0;
 bool visited[7][7];
 string path;
 
@@ -249,7 +249,7 @@ int main() {
 
 	solve(0, 0, 0);
 
-	cout<<ans<<endl;
+	printf("%lld", ans);
 
 	return 0;
 }
